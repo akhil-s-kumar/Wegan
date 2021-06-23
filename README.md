@@ -81,6 +81,8 @@ Make sure you are in `env` and then do the following each at a time.
 3. Find an issue or feature, and work on it.
 4. Push your contribution to your forked repo and make a pull request.
 
+#### Note: Change the remote repository to your forked one before pushing.
+
 ### How to work on the Frontend
 
 1. Make sure to install this backend framework before getting work into Frontend.
