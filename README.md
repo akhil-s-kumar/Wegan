@@ -62,11 +62,6 @@ Make sure you are in `env` and then do the following each at a time.
 (env)$ python manage.py runserver
 ```
 
-### How to work on the Frontend
-
-1. Make sure to install this backend framework before getting work into Frontend.
-2. Follow the [installion procedure](https://github.com/akhil-s-kumar/Wegan-WebApp) in the README file, to work with Fronend for WebApp.
-
 ## :wrench: Tech Stacks
 
 * **Language:**  Python 3.7
@@ -85,3 +80,8 @@ Make sure you are in `env` and then do the following each at a time.
 2. Follow the above installation process.
 3. Find an issue or feature, and work on it.
 4. Push your contribution to your forked repo and make a pull request.
+
+### How to work on the Frontend
+
+1. Make sure to install this backend framework before getting work into Frontend.
+2. Follow the [installion procedure](https://github.com/akhil-s-kumar/Wegan-WebApp) in the README file, to work with Fronend for WebApp.
