@@ -1,4 +1,4 @@
-# Wegan Framework 
+# Wegan Backend Framework 
 
 <p text-align="left">
     <a href="https://github.com/akhil-s-kumar/Wegan-Framework/issues" alt="Issues">
@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/github/stars/akhil-s-kumar/Wegan-Framework" /></a>
 </p>
 
-Wegan is a django-based framework for Wegan WebApp and Wegan Mobile App. Wgan Identify plant diseases using Image Processing and Machine learning Algorihm, and give solutions.
+Wegan is a django-based backend framework for Wegan WebApp and Wegan Mobile App. Wgan Identify plant diseases using Image Processing and Machine learning Algorihm, and give solutions.
 
 ## :minidisc: Installation Instructions
 
