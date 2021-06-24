@@ -86,4 +86,4 @@ Make sure you are in `env` and then do the following each at a time.
 ### How to work on the Frontend
 
 1. Make sure to install this backend framework before getting work into Frontend.
-2. Follow the [installion procedure](https://github.com/akhil-s-kumar/Wegan-WebApp) in the README file, to work with Fronend for WebApp.
+2. Follow the [installation procedure](https://github.com/akhil-s-kumar/Wegan-WebApp) in the README file, to work with Fronend for WebApp.
